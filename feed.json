@@ -13,6 +13,8 @@
             "id": "https://lxlit.me/wow/",
             "url": "https://lxlit.me/wow/",
             "title": "Wow",
+            "summary": "This is a placeholder post.",
+            "content_html": "<p>This is a placeholder post.</p>",
             "author": {
                 "name": "Lalit Kumar"
             },
@@ -22,19 +24,7 @@
                    "Development"
             ],
             "date_published": "2025-08-02T00:31:41+05:30",
-            "date_modified": "2025-08-02T00:31:41+05:30"
-        },
-        {
-            "id": "https://lxlit.me/hein/",
-            "url": "https://lxlit.me/hein/",
-            "title": "Hein ?",
-            "author": {
-                "name": "Lalit Kumar"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-02T00:02:09+05:30",
-            "date_modified": "2025-08-02T00:02:09+05:30"
+            "date_modified": "2025-08-05T22:30:20+05:30"
         }
     ]
 }

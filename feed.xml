@@ -3,7 +3,7 @@
     <title>Lxlit&#x27;s Website</title>
     <link href="https://lxlit.me/feed.xml" rel="self" />
     <link href="https://lxlit.me" />
-    <updated>2025-08-02T00:31:41+05:30</updated>
+    <updated>2025-08-05T22:30:20+05:30</updated>
     <author>
         <name>Lalit Kumar</name>
     </author>
@@ -21,19 +21,15 @@
             <category term="Development"/>
 
         <updated>2025-08-02T00:31:41+05:30</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Hein ?</title>
-        <author>
-            <name>Lalit Kumar</name>
-        </author>
-        <link href="https://lxlit.me/hein/"/>
-        <id>https://lxlit.me/hein/</id>
-
-        <updated>2025-08-02T00:02:09+05:30</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    This is a placeholder post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a placeholder post.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
