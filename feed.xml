@@ -3,7 +3,7 @@
     <title>Lxlit&#x27;s Website</title>
     <link href="https://lxlit.me/feed.xml" rel="self" />
     <link href="https://lxlit.me" />
-    <updated>2025-08-07T23:35:53+05:30</updated>
+    <updated>2025-08-07T23:42:35+05:30</updated>
     <author>
         <name>Lalit Kumar</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://lxlit.me/roidmole-a-forensic-tool-ive-been-building-for-android/"/>
         <id>https://lxlit.me/roidmole-a-forensic-tool-ive-been-building-for-android/</id>
+            <category term="Development"/>
 
         <updated>2025-08-07T23:35:53+05:30</updated>
             <summary>
