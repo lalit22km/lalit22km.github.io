@@ -3,7 +3,7 @@
     <title>Lxlit&#x27;s Website</title>
     <link href="https://lxlit.me/feed.xml" rel="self" />
     <link href="https://lxlit.me" />
-    <updated>2025-08-07T23:42:35+05:30</updated>
+    <updated>2025-08-08T23:55:48+05:30</updated>
     <author>
         <name>Lalit Kumar</name>
     </author>
@@ -32,7 +32,7 @@
 <p data-start="535" data-end="838">When doing digital forensics on Android phones, it’s easy to accidentally modify data on the device—especially if you're not careful with how you extract it. That’s a big problem if you're trying to maintain the integrity of the original data for investigations, research, or even just careful analysis.</p>
 <p data-start="840" data-end="1077">RoidMole is my attempt at a lightweight, <strong data-start="881" data-end="894">read-only</strong> data extraction tool. It connects to an Android device, pulls out relevant data (like messages, logs, etc.), and saves it locally <strong data-start="1025" data-end="1076">without making any changes on the device itself</strong>.</p>
 <hr data-start="1079" data-end="1082">
-<h3 data-start="1084" data-end="1100">How It Works</h3>
+<h3 data-start="1084" data-end="1100">How It Works ?</h3>
 <p data-start="1102" data-end="1252">The tool uses ADB to interface with the device. Once connected, it runs a series of modular scripts that I’ve been writing for different data sources.</p>
 <p data-start="1254" data-end="1413">I’ve intentionally kept the structure <strong data-start="1292" data-end="1303">modular</strong> so that new devices or data types can be supported by simply adding a script—no need to touch the core logic.</p>
 <p data-start="1415" data-end="1456">Here’s a quick breakdown of what happens:</p>
